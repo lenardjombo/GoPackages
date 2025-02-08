@@ -3,7 +3,7 @@ package inputs
 import "fmt"
 
 
-var Num1,Num2 int
+var Num1,Num2 float64
 var Operator string
 func GetUserInput()bool{
     fmt.Print("Please enter an operator from the above list: ")
