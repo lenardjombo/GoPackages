@@ -9,10 +9,10 @@ CalcGo/
 │── main.go          # Entry point of the program 
 │── go.mod          # Module file for dependency management 
 │── operations/ 
-│   ├── add.go      # Addition function 
-│   ├── subtract.go # Subtraction function 
-│   ├── multiply.go # Multiplication function 
-│   ├── divide.go   # Division function 
+│   ├── Add.go      # Addition function 
+│   ├── Sub.go # Subtraction function 
+│   ├── Mul.go # Multiplication function 
+│   ├── Div.go   # Division function 
 ```
 
 ## Using Go Packages
@@ -60,6 +60,6 @@ go run main.go
 ---
 
  **Author**: Lenard Jombo  
- **GitHub Repo**: [https://github.com/lenardjombo/GoPackages]  
+ **GitHub Repo**:[GoPackages](https://github.com/lenardjombo/GoPackages)  
 
 Happy Coding! 
