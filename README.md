@@ -1,5 +1,5 @@
-# CalcGo - Understanding Go Packages
-
+# Understanding Go Packages
+Learn and understand Go Packages with this one Repository
 ##  Overview
 CalcGo is a simple calculator project built in Go, demonstrating how to organize code using **Go packages**. Each function (addition, subtraction, multiplication, division, etc.) is placed in its **own independent file** within a structured package format.
 
@@ -56,6 +56,7 @@ go run main.go
 - **Modular Code**: Each function is in a separate file within the `mathutils` package.
 - **Reusability**: Functions can be reused across different parts of the project.
 - **Scalability**: New operations can be added easily by creating new files in `operations/`.
+- **Maintanability**: Independent source files would be easier to maintain 
 
 ---
 
